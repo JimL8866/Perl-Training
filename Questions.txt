@@ -1,0 +1,3 @@
+Exercise 2;
+Q3 unpack
+Q5 $num++ $_++
